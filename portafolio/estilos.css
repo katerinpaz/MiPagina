@@ -1,0 +1,24 @@
+.proyecto {
+    color: brown;
+}
+
+.trabajo1 {
+    color: darkgoldenrod;
+}
+
+.trabajo2 {
+    color: forestgreen;
+}
+
+p {
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+    color: chocolate;
+}
+
+.hobby {
+    color: darkblue;
+}
